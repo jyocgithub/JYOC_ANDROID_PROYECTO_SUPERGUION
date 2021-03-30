@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jyoc_guiasmuyrapidas" />
+            <option value="$PROJECT_DIR$/jyocguion_asynctask_conprogress" />
+            <option value="$PROJECT_DIR$/jyocguion_broadcats_bateria" />
+            <option value="$PROJECT_DIR$/jyocguion_canvas" />
+            <option value="$PROJECT_DIR$/jyocguion_cardview" />
+            <option value="$PROJECT_DIR$/jyocguion_firebase" />
+            <option value="$PROJECT_DIR$/jyocguion_firestore" />
+            <option value="$PROJECT_DIR$/jyocguion_hacerfoto" />
+            <option value="$PROJECT_DIR$/jyocguion_internacionalizacion" />
+            <option value="$PROJECT_DIR$/jyocguion_leercontactos" />
+            <option value="$PROJECT_DIR$/jyocguion_mail_conadjuntos" />
+            <option value="$PROJECT_DIR$/jyocguion_navigationdrawer_confragments" />
+            <option value="$PROJECT_DIR$/jyocguion_sqlite" />
+            <option value="$PROJECT_DIR$/jyocguion_viewpager" />
+            <option value="$PROJECT_DIR$/jyocguion_viewpager/jyocguion_viewpager_confragments" />
+            <option value="$PROJECT_DIR$/jyocguion_viewpager_confragments" />
+            <option value="$PROJECT_DIR$/jyocguion_webbrowser_propio" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

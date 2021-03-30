@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "15177143665",
+    "firebase_url": "https://jyocfirestore-proyectos.firebaseio.com",
+    "project_id": "jyocfirestore-proyectos",
+    "storage_bucket": "jyocfirestore-proyectos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15177143665:android:87cd60e207ba32b9f292d0",
+        "android_client_info": {
+          "package_name": "com.jyoc.jyoc_firestore_guion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15177143665-1uo595d1k5i0hnsdi59pd3cabjn3nfdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8Brjfc6VCTyDbcmff7rIhk5hoBWAy34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15177143665-1uo595d1k5i0hnsdi59pd3cabjn3nfdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15177143665:android:af25272d1100e2f1f292d0",
+        "android_client_info": {
+          "package_name": "com.jyoc.jyocfirestoreguion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15177143665-1uo595d1k5i0hnsdi59pd3cabjn3nfdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8Brjfc6VCTyDbcmff7rIhk5hoBWAy34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15177143665-1uo595d1k5i0hnsdi59pd3cabjn3nfdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15177143665:android:871e43ef87279424f292d0",
+        "android_client_info": {
+          "package_name": "eduardo.es.dondeestavinicius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15177143665-1uo595d1k5i0hnsdi59pd3cabjn3nfdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8Brjfc6VCTyDbcmff7rIhk5hoBWAy34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15177143665-1uo595d1k5i0hnsdi59pd3cabjn3nfdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

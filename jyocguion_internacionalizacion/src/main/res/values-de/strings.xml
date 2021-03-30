@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internacionalization</string>
+    <string name="intro">Willkommen zu anmeldung Formular!</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="nombre">Vorname:</string>
+    <string name="apellidos">Nachname:</string>
+    <string name="email">Email:</string>
+    <string name="password">Passwort:</string>
+
+</resources>
